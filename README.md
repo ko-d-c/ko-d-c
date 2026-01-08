@@ -17,8 +17,8 @@
 ****  
 
 <!-- Profile -->
-I work on <strong>AI and digital transformation</strong> projects <br>
-where organizational needs and technical systems meet.
+I am a<strong>solution designer for AI and digital transformation</strong> projects <br>
+at the intersection of organizational needs and technical systems.
 
 > Most AI initiatives fail *before* implementation.
 
