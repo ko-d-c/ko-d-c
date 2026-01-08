@@ -1,7 +1,8 @@
 <!-- header -->
 <p align='center'>
-  ![Banner](/readme banner.png)
+  <img width="920" height="328" alt="readme banner" src="https://github.com/user-attachments/assets/a6344624-5283-41e5-8ce7-81ccf438d45e" />
 </p>
+
 # ko-d-c
 ### Navigating the digital worlds of modern times, let's journey together 🌍🤖
 
