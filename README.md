@@ -3,7 +3,7 @@
   <img width="920" height="328" alt="readme banner" src="https://github.com/user-attachments/assets/a6344624-5283-41e5-8ce7-81ccf438d45e" />
 </p>
 
-# Hello traveler, stay a while and listen...
+## Hello traveler, stay a while and listen...
 
 <!-- Contact badge -->
 <p align='center'><strong> I'm Kolja, navigating the digital worlds of modern times, let's journey together 🌍🤖</strong></p>
@@ -17,13 +17,13 @@
 ****  
 
 <!-- Profile -->
-I am a<strong>solution designer for AI and digital transformation</strong> projects <br>
-at the intersection of organizational needs and technical systems.
+## <strong>Solution designer for AI and digital transformation</strong> projects <br>
 
 > Most AI initiatives fail *before* implementation.
 
 To reduce this risk, I build structures **upstream of code** <br>
-To do so I aspire to build maps of where we will end up when we go upstream one way or the other. <br>
+For this, I build maps of where we will end up when we go upstream one way or the other. <br>
+I use these mental maps to connect organizational needs and technical systems. <br>
 
 <!-- Stacks -->
 ### 💻 The tech world destinations I have visited before:
