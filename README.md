@@ -1,3 +1,7 @@
+<!-- header -->
+<p align='center'>
+  ![Banner](/readme banner.png)
+</p>
 # ko-d-c
 ### Navigating the digital worlds of modern times, let's journey together 🌍🤖
 
