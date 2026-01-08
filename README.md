@@ -3,89 +3,60 @@
   <img width="920" height="328" alt="readme banner" src="https://github.com/user-attachments/assets/a6344624-5283-41e5-8ce7-81ccf438d45e" />
 </p>
 
-# ko-d-c
-### Navigating the digital worlds of modern times, let's journey together 🌍🤖
+# Hello traveler, stay a while and listen...
 
-<br>
-
-****  
-
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-contact-red?logo=gmail&logoColor=white)](mailto:brushstrokeco@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-workspace-black?logo=notion&logoColor=white)](notion.so/Kolja-s-Thinkspace-bda6d40ff8954e2a9d1b7a769598e950)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-context-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolja-de-cuveland/)
-
-<br>
+<!-- Contact badge -->
+<p align='center'><strong> I'm Kolja, navigating the digital worlds of modern times, let's journey together 🌍🤖</strong></p>
+<p align='center'>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/brushstrokeco@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
+  <!-- Linkedin -->
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kolja-de-cuveland/"/>
+</p>
 
 ****  
 
-## Profile
+<!-- Profile -->
+I work on <strong>AI and digital transformation</strong> projects <br>
+where organizational needs and technical systems meet.
 
-I work on **enterprise AI and digital transformation** projects where  
-business processes, organizational constraints, and technical systems meet.
-
-My focus is on:
-- developing the right strategy
-- structuring ambiguous problems
-- translating domain logic into computable form
-- prototyping internal tools and process AI
-- leading development cycles and change management
-Because...
 > Most AI initiatives fail *before* implementation.
 
+To reduce this risk, I build structures **upstream of code** <br>
+To do so I aspire to build maps of where we will end up when we go upstream one way or the other. <br>
 
-<br>
+<!-- Stacks -->
+### 💻 The tech world destinations I have visited before:
+<!-- Focus -->
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power bi" width="45" height="45" />
+</p>
 
-****  
-## Worlds Stack
-I build structures **upstream of code** to reduce that risk. The technical worlds I have travel experience in:
 
-| Tool | Usage context |
-|---|---|
-| RAG | vector database inputs, chunking strategy |
-| Python | prototyping, analysis, AI agents |
-| SQL | structured querying of operational data |
-| JavaScript | interactive internal tools, server setup |
-| PowerBI | documentation & knowledge design |
-
-<br>
-
-****  
-## Past Journeys
-
-### 🚀 Journey 1 — Finance  
+### 🚀 Journey 1 — journey-finance-investment-advisor
 **Destination:** Accessible, strategy-oriented investment guidance
 
 > **Guiding question:**  
 > *Can modern AI systems translate complex investment logic into recipient-oriented guidance for people without privileged access to financial education or advisory services?*
 
-<table>
-<tr>
-<td width="70%">
+**Navigation:**
+| Journey step | Report |
+|---|---|
+| Designing the right strategy | 🔗 [journey-finance-investment-advisor](#) |
+| Structuring problems | 📄 [finance-domain-logic](#) |
+| Translating domain logic into computable form | ⚙️ [strategy-simulation-engine](#) |
+| Developing prototype / MVP | 🧪 [investment-advisor-prototype](#) |
+| Development and change management | 🗺️ [adoption-notes](#) |
 
-**Project placeholder — Investment Strategy Advisor**
-
-An AI-assisted advisory prototype designed to help individuals  
-discover investment strategies that match their goals, constraints,  
-and risk profiles — without requiring expert financial literacy.
-
-**Focus of this journey**
-- translating professional investment logic into understandable guidance  
-- recipient-oriented communication instead of one-size-fits-all advice  
-- aligning strategy, risk, and long-term objectives  
-- making financial decision support more inclusive and approachable  
-
-</td>
-<td width="30%" align="center">
-
-<img width="200px" src="https://via.placeholder.com/200x200.png?text=Finance+Journey"></img>
-
-</td>
-</tr>
-</table>
-
-**Means of travel**
+**Means of travel:**
 - Python (strategy logic, simulations)
 - RAG (financial knowledge grounding)
 - SQL (portfolio and scenario data)
@@ -95,36 +66,20 @@ and risk profiles — without requiring expert financial literacy.
 
 ****  
 
-### 🌱 Journey 2 — Sustainability & ESG  
+### 🌱 Journey 2 — journey-esg-advocacy-advisor
 **Destination:** Structured insight across competing advocacy perspectives
 
 > **Guiding question:**  
 > *Can AI help decision-makers navigate sustainability debates by making different advocacy perspectives explicit, comparable, and transparent?*
 
-<table>
-<tr>
-<td width="70%">
-
-**Project placeholder — ESG Advocacy Perspective Advisor**
-
-An AI agent designed to represent and contrast the perspectives  
-of different sustainability advocacy groups when evaluating policies,  
-projects, or corporate strategies.
-
-**Focus of this journey**
-- surfacing value conflicts and trade-offs in ESG debates  
-- translating qualitative advocacy positions into structured arguments  
-- supporting more informed, pluralistic decision-making  
-- increasing transparency in sustainability discussions  
-
-</td>
-<td width="30%" align="center">
-
-<img width="200px" src="https://via.placeholder.com/200x200.png?text=ESG+Journey"></img>
-
-</td>
-</tr>
-</table>
+**Navigation:**
+| Journey step | Report |
+|---|---|
+| Designing the right strategy | 🔗 [journey-esg-advocacy-advisor](#) |
+| Structuring problems | 📄 [esg-perspective-map](#) |
+| Translating domain logic into computable form | ⚙️ [advocacy-reasoning-engine](#) |
+| Developing prototype / MVP | 🧪 [esg-advisor-agent](#) |
+| Development and change management | 🗺️ [governance-and-adoption](#) |
 
 **Means of travel**
 - Python (logic and orchestration)
@@ -132,7 +87,6 @@ projects, or corporate strategies.
 - Vector databases (perspective retrieval)
 - Prompt design (role-consistent reasoning)
 - Visualization tools (comparison and contrast)
-
 <br>
 
 ****  
