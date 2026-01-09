@@ -1,7 +1,12 @@
 <!-- header -->
 <p align='center'>
-  <img width="920" height="328" alt="readme banner" src="https://github.com/user-attachments/assets/a6344624-5283-41e5-8ce7-81ccf438d45e" />
+  <img width="920" height="328" alt="readme banner" src="https://github.com/user-attachments/assets/a6344624-5283-41e5-8ce7-81ccf438d45e" /> 
 </p>
+
+<sub><font color="#D3D3D3"> Art is created by [Chill Cartoon Vibes](https://youtu.be/oycCyZHytaM?si=9PxK8RoNTGURllsa) </font></sub>
+
+
+
 
 ## Hello traveler, stay a while and listen...
 
