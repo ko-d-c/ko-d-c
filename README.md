@@ -18,10 +18,9 @@
   </a>
 
   <a href="https://www.linkedin.com/in/kolja-de-cuveland/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-****  
 
 <!-- Profile -->
 > Most AI initiatives fail *before* implementation.
