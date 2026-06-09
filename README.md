@@ -11,7 +11,7 @@
 ## Hello traveler, I'm Kolja...
 
 <!-- Contact badge -->
-<p align='center'><strong> Solution designer</strong>, for AI and digital transformation projects🌍🤖</p>
+<p align='center'><strong> Solution architect</strong> for AI and digital transformation projects🌍🤖</p>
 <p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/brushstrokeco@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
